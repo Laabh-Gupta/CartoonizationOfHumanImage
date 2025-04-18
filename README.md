@@ -59,15 +59,3 @@ It contains four folders:
 - This structure is compatible with both **CycleGAN** and **Pix2Pix** models.
 
 ---
-
-## 🖼️ Visual Examples
-
-Below are sample outputs generated from the models:
-
-| **Input (Human Image)** | **CycleGAN Output** | **Pix2Pix Output** |
-|-------------------------|---------------------|--------------------|
-| ![input](assets/sample_input.jpg) | ![cyclegan](assets/sample_cyclegan.jpg) | ![pix2pix](assets/sample_pix2pix.jpg) |
-
-> 💡 Place your sample images in an `assets/` folder inside your project directory to render them correctly in the README.
-
----
